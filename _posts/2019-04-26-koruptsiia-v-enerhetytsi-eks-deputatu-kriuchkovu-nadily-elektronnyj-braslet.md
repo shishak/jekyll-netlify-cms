@@ -1,14 +1,6 @@
 ---
-ID: 60419
-post_title: 'Корупція в енергетиці: Екс-депутату Крючкову наділи електронний браслет'
-post_name: >
-  koruptsiia-v-enerhetytsi-eks-deputatu-kriuchkovu-nadily-elektronnyj-braslet
-post_date: 2019-04-26 20:07:49
 layout: post
-link: >
-  http://35.224.113.239/koruptsiia-v-enerhetytsi-eks-deputatu-kriuchkovu-nadily-elektronnyj-braslet/
-published: true
-tags: [ ]
+title: fjhxfhxhxfhxfhxhxfh
 categories:
   - Україна
 ---
