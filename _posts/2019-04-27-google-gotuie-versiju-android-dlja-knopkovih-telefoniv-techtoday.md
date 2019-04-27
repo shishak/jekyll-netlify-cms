@@ -1,0 +1,21 @@
+---
+ID: 838
+post_title: 'Google готує версію Android для кнопкових телефонів &#8212; TechToday'
+post_name: >
+  google-gotuie-versiju-android-dlja-knopkovih-telefoniv-techtoday
+post_date: 2019-04-27 11:03:06
+layout: post
+link: >
+  http://35.188.114.84/google-gotuie-versiju-android-dlja-knopkovih-telefoniv-techtoday/
+published: true
+tags: [ ]
+categories:
+  - Uncategorized
+---
+ <p>У мобільному світі з’явилася третя мобільна платформа – KaiOS. Вона «виросла» з кнопкових телефонів, і аналітики пророкують їй чудове майбутнє. Тим часом у Google вирішили не чекати на активний розвиток конкурента і почали готувати Android для кнопкових телефонів.</p>
+<p>Вперше чутки про підготовку нової версії ОС Android з’явилися кілька місяців тому, але лише днями стали доступні перші скриншоти, що їх підтверджують. Це знімки браузера Google Chrome в режимі управління за відсутності сенсорного екрану. Окрім цього, на зображеннях видно звичні іконки системи Android, включаючи заряд батареї, антену стільникового сигналу, Wi-Fi, годинник.<a href="https://techtoday.in.ua/wp-content/uploads/2019/04/Google-Chrome-and-Android-Touchless-Mode.jpg" rel="attachment wp-att-113741"><img class="aligncenter size-full wp-image-113741" src="https://techtoday.in.ua/wp-content/uploads/2019/04/Google-Chrome-and-Android-Touchless-Mode.jpg" alt width="805" height="456" srcset="https://techtoday.in.ua/wp-content/uploads/2019/04/Google-Chrome-and-Android-Touchless-Mode.jpg 805w, https://techtoday.in.ua/wp-content/uploads/2019/04/Google-Chrome-and-Android-Touchless-Mode-768x435.jpg 768w, https://techtoday.in.ua/wp-content/uploads/2019/04/Google-Chrome-and-Android-Touchless-Mode-696x394.jpg 696w, https://techtoday.in.ua/wp-content/uploads/2019/04/Google-Chrome-and-Android-Touchless-Mode-741x420.jpg 741w" sizes="(max-width: 805px) 100vw, 805px"></a></p>
+<p>За попередніми даними, кнопковий варіант Android базується на Android 8.1 Oreo. Цій системі вже близько двох років, і незрозуміло, чому в Google не хочуть вибрати Android 9 Pie або Android 10 Q, який лише готується до випуску. Можливо, більше інформації про нову розробку з’явиться на конференції Google I/O 2019, яка відбудеться найближчим часом.</p>
+<p>У січні 2019 року Google адаптувала до KaiOS свого голосового помічника Assistant. Можливості віртуального помічника на KaiOS будуть меншими, ніж на Android. Однак збережуться головні опції – пошук та надиктовування повідомлення. Також у Google Assistant для KaiOS реалізують сторонні вміння (Actions).</p>
+<p>За даними аналітиків Couterpoint Research, до 2021 року в світі куплять 370 млн «розумних» мобільних телефонів, що принесе вендорам виручку в розмірі $28 млрд. Це цікавий тренд на тлі зниження продажів смартфонів, адже такі «розумні» телефони доступніші та простіші у використанні.</p>
+<p>Основою більшості смартфічерфонів, як ще називають «розумні» мобільні телефони, є операційна система KaiOS. Вона дозволяє апаратам працювати в мережах 4G та інсталювати різноманітні додатки. Її створили розробники браузера Mozilla Firefox, і ця ОС дозволяє легше програмувати утиліти для телефонів, використовуючи відносно простий стандарт HTML5. Останній сьогодні забезпечує роботу більшості інтернет-сервісів.</p>
+<p>Ринок смартфічерфонів у 2018 році зростав зі швидкістю 252%. Він склав майже 16% усього ринку фічерфонів (кнопкових телефонів). Основними регіонами продажів таких «розумних» мобільних апаратів є Індія, Південно-Східна Азія, Африка, однак вони також популярні в розвинутих країнах, зокрема у США та Великобританії.</p> 
