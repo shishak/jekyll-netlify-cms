@@ -1,6 +1,6 @@
 ---
 ID: 748
-post_title: 'З прицілом на автономність. Смартфон Vivo Y17 отримав величезний акумулятор і екран невисокого дозволу &#8212; ВСВІТІ — все, що тебе вражає! &#8212; ВСВІТІ'
+title: 'З прицілом на автономність. Смартфон Vivo Y17 отримав величезний акумулятор і екран невисокого дозволу &#8212; ВСВІТІ — все, що тебе вражає! &#8212; ВСВІТІ'
 post_name: >
   z-pricilom-na-avtonomnist-smartfon-vivo-y17-otrimav-velicheznij-akumuljator-i-ekran-nevisokogo-dozvolu-vsviti-vse-shho-tebe-vrazhaie-vsviti
 post_date: 2019-04-27 00:48:04
