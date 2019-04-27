@@ -1,0 +1,22 @@
+---
+ID: 843
+post_title: 'Нові зображення перспективних флагманів Honor &#8212; iTechua &#8212; новини, гаджети, технології'
+post_name: >
+  novi-zobrazhennja-perspektivnih-flagmaniv-honor-itechua-novini-gadzheti-tehnologii
+post_date: 2019-04-27 11:07:57
+layout: post
+link: >
+  http://35.188.114.84/novi-zobrazhennja-perspektivnih-flagmaniv-honor-itechua-novini-gadzheti-tehnologii/
+published: true
+tags: [ ]
+categories:
+  - Uncategorized
+---
+ <div class="td-post-featured-image"><a href="https://itechua.com/wp-content/uploads/2019/04/1_large-1.jpg" data-caption><img width="696" height="465" class="entry-thumb td-modal-image" src="https://itechua.com/wp-content/uploads/2019/04/1_large-1-696x465.jpg" srcset="https://itechua.com/wp-content/uploads/2019/04/1_large-1-696x465.jpg 696w, https://itechua.com/wp-content/uploads/2019/04/1_large-1-300x200.jpg 300w, https://itechua.com/wp-content/uploads/2019/04/1_large-1-768x513.jpg 768w, https://itechua.com/wp-content/uploads/2019/04/1_large-1-629x420.jpg 629w, https://itechua.com/wp-content/uploads/2019/04/1_large-1.jpg 800w" sizes="(max-width: 696px) 100vw, 696px" alt title="1_large"></a></div> <div data-wpusb-component="buttons-section">
+<div class="wpusb wpusb-square-plus" id="wpusb-container-square-plus" data-element-url="https%3A%2F%2Fitechua.com%2Fsmartphones%2F59491" data-element-title="%D0%9D%D0%BE%D0%B2%D1%96%20%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F%20%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85%20%D1%84%D0%BB%D0%B0%D0%B3%D0%BC%D0%B0%D0%BD%D1%96%D0%B2%20Honor" data-attr-reference="59491" data-attr-nonce="b5afdf9332" data-is-term="0" data-disabled-share-counts="1" data-wpusb-component="counter-social-share">
+<p><span>Поділитися</span></p> </div> </div> <p>У Мережі з’явилися нові зображення смартфонів Honor 20, які вийдуть тільки в другій половині травня і виявляться більш доступними версіями флагманської парочки Huawei P30 і P30 Pro. На зображенні нижче фігурує Honor 20 – у виконанні Moschino Edition і червоному кольорі.</p>
+<p><img class="aligncenter size-full wp-image-59493" src="https://itechua.com/wp-content/uploads/2019/04/The-Honor-20-Moschino-Edition-could-be-the-luxury-phone-of-your-dreams_large.jpg" alt width="800" height="534" srcset="https://itechua.com/wp-content/uploads/2019/04/The-Honor-20-Moschino-Edition-could-be-the-luxury-phone-of-your-dreams_large.jpg 800w, https://itechua.com/wp-content/uploads/2019/04/The-Honor-20-Moschino-Edition-could-be-the-luxury-phone-of-your-dreams_large-300x200.jpg 300w, https://itechua.com/wp-content/uploads/2019/04/The-Honor-20-Moschino-Edition-could-be-the-luxury-phone-of-your-dreams_large-768x513.jpg 768w, https://itechua.com/wp-content/uploads/2019/04/The-Honor-20-Moschino-Edition-could-be-the-luxury-phone-of-your-dreams_large-696x465.jpg 696w, https://itechua.com/wp-content/uploads/2019/04/The-Honor-20-Moschino-Edition-could-be-the-luxury-phone-of-your-dreams_large-629x420.jpg 629w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>Ця версія запропонує всі атрибути аналогічних версій минулих моделей: трохи змінений інтерфейс, видозмінену коробку, чохол незвичайного дизайну і т. д. А ще таку модель виставлять на прилавках фірмових магазинів Moschino і будуть демонструвати під час різних тижнів моди. Але по технічній частині ніяких відмінностей Honor 20 Moschino Edition від звичайного Honor 20 не буде.</p>
+<p>Поглянути на рендер Honor 20 Pro куди цікавіше, адже тут видно не якийсь фрагмент смартфона — а вся тильна панель цілком з родзинкою моделі — основною камерою з чотирьох об’єктивів і датчиків.</p>
+<p><img class="aligncenter size-full wp-image-59492" src="https://itechua.com/wp-content/uploads/2019/04/e2f99469gy1g2eyw3eyozj22n35d0u0x_large.jpg" alt width="296" height="600" srcset="https://itechua.com/wp-content/uploads/2019/04/e2f99469gy1g2eyw3eyozj22n35d0u0x_large.jpg 296w, https://itechua.com/wp-content/uploads/2019/04/e2f99469gy1g2eyw3eyozj22n35d0u0x_large-148x300.jpg 148w, https://itechua.com/wp-content/uploads/2019/04/e2f99469gy1g2eyw3eyozj22n35d0u0x_large-207x420.jpg 207w" sizes="(max-width: 296px) 100vw, 296px"></p>
+<p>За даними користувача, опублікував рендер в соціальній мережі Weibo, після виходу Honor 20 займе місце моделі Honor V20, а та, в свою чергу, подешевшає. Відповідно, вартість Honor 20 очікується на рівні $445 (11 900 грн.), а Honor 20 Pro, за попередніми даними, буде коштувати від $550 (14 700 грн.).</p> 
