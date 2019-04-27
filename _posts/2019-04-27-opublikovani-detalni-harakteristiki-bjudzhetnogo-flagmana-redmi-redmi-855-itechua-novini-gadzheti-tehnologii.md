@@ -1,0 +1,22 @@
+---
+ID: 921
+title: 'Опубліковані детальні характеристики бюджетного флагмана Redmi (Redmi 855) &#8212; iTechua &#8212; новини, гаджети, технології'
+post_name: >
+  opublikovani-detalni-harakteristiki-bjudzhetnogo-flagmana-redmi-redmi-855-itechua-novini-gadzheti-tehnologii
+date: 2019-04-27 11:58:38
+layout: post
+link: >
+  http://35.188.114.84/opublikovani-detalni-harakteristiki-bjudzhetnogo-flagmana-redmi-redmi-855-itechua-novini-gadzheti-tehnologii/
+published: true
+tags: [ ]
+categories:
+  - Uncategorized
+---
+ <div class="td-post-content" readability="61">
+<div class="td-post-featured-image"><a href="https://itechua.com/wp-content/uploads/2019/04/Xiaomi-Redmi-Note-7-price-specs-48-megapixel-camera-Revu-Philippines-c-881x496_large.jpg" data-caption><img width="696" height="392" class="entry-thumb td-modal-image" src="https://itechua.com/wp-content/uploads/2019/04/Xiaomi-Redmi-Note-7-price-specs-48-megapixel-camera-Revu-Philippines-c-881x496_large-696x392.jpg" srcset="https://itechua.com/wp-content/uploads/2019/04/Xiaomi-Redmi-Note-7-price-specs-48-megapixel-camera-Revu-Philippines-c-881x496_large-696x392.jpg 696w, https://itechua.com/wp-content/uploads/2019/04/Xiaomi-Redmi-Note-7-price-specs-48-megapixel-camera-Revu-Philippines-c-881x496_large-300x169.jpg 300w, https://itechua.com/wp-content/uploads/2019/04/Xiaomi-Redmi-Note-7-price-specs-48-megapixel-camera-Revu-Philippines-c-881x496_large-768x432.jpg 768w, https://itechua.com/wp-content/uploads/2019/04/Xiaomi-Redmi-Note-7-price-specs-48-megapixel-camera-Revu-Philippines-c-881x496_large-747x420.jpg 747w, https://itechua.com/wp-content/uploads/2019/04/Xiaomi-Redmi-Note-7-price-specs-48-megapixel-camera-Revu-Philippines-c-881x496_large.jpg 800w" sizes="(max-width: 696px) 100vw, 696px" alt title="Xiaomi-Redmi-Note-7-price-specs-48-megapixel-camera-Revu-Philippines-c-881x496_large"></a></div> <div data-wpusb-component="buttons-section">
+<div class="wpusb wpusb-square-plus" id="wpusb-container-square-plus" data-element-url="https%3A%2F%2Fitechua.com%2Fsmartphones%2F59403" data-element-title="%D0%9E%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D1%96%20%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%96%20%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%84%D0%BB%D0%B0%D0%B3%D0%BC%D0%B0%D0%BD%D0%B0%20Redmi%20%28Redmi%20855%29" data-attr-reference="59403" data-attr-nonce="b5afdf9332" data-is-term="0" data-disabled-share-counts="1" data-wpusb-component="counter-social-share">
+<p><span>Поділитися</span></p> </div> </div> <p>Один з користувачів соціальної мережі Weibo опублікував перелік специфікацій перспективного флагмана Redmi. І хоча сам список ніяк не вказує на приналежність смартфону Redmi, до користувача, який його надав, є певна довіра, так як багато опубліковані ним раніше витоки підтверджувалися.</p>
+<p>Отже, смартфону приписана флагманська платформа Snapdragon 855, але це ми, загалом-то, і так знаємо – в іншому випадку модель не носила б умовне позначення Redmi 855. Діагональ екрану – 6,39 дюйма, а роздільна здатність – 2340х1080 пікселів. Об’єм оперативної пам’яті склав 8 ГБ флеш-пам’яті – 128 ГБ. Основна камера – 32-мегапіксельна, що в якійсь мірі очікувано. Основна камера буде представлена датчиками роздільною здатністю 48, 8 і 13 Мп.</p>
+<p><img class="aligncenter size-full wp-image-59404" src="https://itechua.com/wp-content/uploads/2019/04/006BlblIgy1g2e2qy59dxj30tz0iodi4_large.jpg" alt width="800" height="498" srcset="https://itechua.com/wp-content/uploads/2019/04/006BlblIgy1g2e2qy59dxj30tz0iodi4_large.jpg 800w, https://itechua.com/wp-content/uploads/2019/04/006BlblIgy1g2e2qy59dxj30tz0iodi4_large-300x187.jpg 300w, https://itechua.com/wp-content/uploads/2019/04/006BlblIgy1g2e2qy59dxj30tz0iodi4_large-768x478.jpg 768w, https://itechua.com/wp-content/uploads/2019/04/006BlblIgy1g2e2qy59dxj30tz0iodi4_large-696x433.jpg 696w, https://itechua.com/wp-content/uploads/2019/04/006BlblIgy1g2e2qy59dxj30tz0iodi4_large-675x420.jpg 675w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>Про терміни випуску смартфона нічого не говориться, але він, швидше за все, вийде в травні. Нагадаємо, зовнішній вигляд моделі вже відомий: вчора вона засвітилася в руках глави бренду Redmi Лю Вейбинга (Lu Weibing).</p> </div>
+<footer> </footer> 
